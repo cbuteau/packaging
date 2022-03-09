@@ -1,0 +1,6 @@
+{
+  "baseDir": "./deploy",
+  "includes": [
+    ".": "*.*"
+  ]
+}
